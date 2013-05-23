@@ -1,0 +1,70 @@
+
+/Vídeo
+Comprimento da Tela: 1024
+Altura da Tela: 768
+Cores da Tela: 32
+Tela Cheia: 0
+Quadros por Segundo: 30
+Comprimento da Tela do Mapa: 700
+Altura da Tela do Mapa: 700
+Cor do texto R: 255
+Cor do texto G: 255
+Cor do texto B: 255
+Cor do texto2 R: 255
+Cor do texto2 G: 0
+Cor do texto2 B: 0
+
+/Jogabilidade
+Velocidade da Tela: 10
+Pertimitir andar em Diagonal: 1
+
+/Mapa
+Comprimento do Mapa (Max-100): 20
+Altura do Mapa (Max-100): 20
+Quantidade de Florestas: 4
+Tamanho das Florestas: 10
+Variação entre as Florestas: 10
+Quantidade de Cordilheiras: 2
+Tamanho das Cordilheiras: 100
+Variação entre as Cordilheiras: 10
+Quantidade de Áreas com Neve: 1
+Tamanho das Áreas com Neve: 10
+Variação entre as Áreas com Neve: 10
+Quantidade de Desertos: 1
+Tamanho dos Desertos: 10
+Variação entre os Desertos: 10
+
+/Jogadores
+Número de Jogadores: 4
+Nome do Jogador: Qwe                
+Raca do Jogador: 0
+População do Jogador: 10000
+Materiais do Jogador: 0
+Mana do Jogador: 0
+Posição X: 0
+Posição Y: 0
+Nome do Jogador: Ilmiol
+Raca do Jogador: 4
+População do Jogador: 10000
+Materiais do Jogador: 0
+Mana do Jogador: 0
+Posição X: 4
+Posição Y: 4
+Nome do Jogador: Altior
+Raca do Jogador: 2
+População do Jogador: 10000
+Materiais do Jogador: 0
+Mana do Jogador: 0
+Posição X: 8
+Posição Y: 8
+Nome do Jogador: Caminion
+Raca do Jogador: 3
+População do Jogador: 10000
+Materiais do Jogador: 0
+Mana do Jogador: 0
+Posição X: 12
+Posição Y: 12
+
+/Rede
+IP do servidor: 
+Porta de Rede: 2000
